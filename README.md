@@ -1,55 +1,74 @@
 # 🏥 Hospital ER Dashboard
 
-![Dashboard Preview](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Dashboard%20Image.png)
+![Dashboard Preview](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Monthly%20View.png)
 
 ## 📊 Overview
 
-This Power BI dashboard presents a comprehensive analysis of patient flow, wait times, department referrals, and satisfaction scores in a hospital emergency room. Designed to support data-driven decisions, this project helps stakeholders understand ER trends and improve service delivery.
+This Power BI dashboard analyzes emergency room operations, patient demographics, department referrals, wait times, and satisfaction metrics. It supports hospital administrators and healthcare teams in identifying bottlenecks, peak load periods, and improvement areas in patient care delivery.
+
+---
 
 ## 👤 Created By
 **Arun Kothandaraman**
 
-## 📁 File
-- [`Hospital ER Analysis.pbix`](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Dashboard%20Image.png))
+## 📁 Power BI File
+🔗 [`Hospital ER Analysis.pbix`](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Hospital%20ER%20Analysis.pbix)
 
-## 📌 Features
+---
 
-- 📅 **Monthly View** – Summary of patients by month with KPIs like wait time and satisfaction score.
-- 📈 **Consolidated View** – Trends by department, gender, age group, and hourly patterns.
-- 🧑‍🤝‍🧑 **Patient Details View** – Detailed table including demographics and referral information.
-- 📍 Drill-through navigation buttons for seamless interaction.
-- 📊 Dynamic slicers for **date range**, **year**, and **month** filtering.
+## 📌 Dashboard Views
 
-## 🔍 Key KPIs
+- 📅 **Monthly View** – Month-specific summary including wait time, referrals, and satisfaction.
+- 📊 **Consolidated View** – Aggregated insights for the full dataset across time.
+- 🧾 **Patient Details View** – Individual-level breakdown of patients with demographics.
 
-- Total number of patients
-- Average patient wait time
-- Patient satisfaction score
-- % of patients seen within 30 minutes
-- Referrals by department
-- Patient demographics (age, gender, race)
+---
 
-## 🛠 Tools Used
+## 📈 Key KPIs
 
-- Microsoft Power BI Desktop
-- DAX for KPI calculations and formatting
-- Custom buttons and bookmarks for navigation
+- 👥 **Total Patients Treated:** 9,216
+- 🕒 **Average Wait Time:** 35.3 minutes
+- 🌟 **Average Satisfaction Score:** 4.99/5
+- 📑 **Total Referred Patients:** 3,816
+- ⏱ **% Seen Within 30 Minutes:** 61.62%
+
+---
 
 ## 💡 Insights Delivered
 
-- Peak patient arrival times by day and hour
-- Performance of departments in terms of referrals
-- Patient demographics distribution
-- Wait time performance tracking and trend analysis
+- 🗓 **Peak Days:** Saturday and Sunday see the highest patient volumes, especially between 09:00 AM – 01:00 PM.
+- 👶 **Age Group Trends:** The 30–59 age range accounts for the majority of ER visits.
+- 🏥 **Department Referrals:** Most referrals are for General Practice and Orthopedics.
+- 👩‍⚕️ **Patient Race:** Majority of patients are White (2.6K), followed by African American (2.0K).
+- ⚖️ **Admission Ratio:** 50.04% of ER patients are admitted; the rest are released after evaluation.
+- 👨‍⚕️ **Gender Split:** Almost equal distribution between Male (49.08%) and Female (50.92%).
 
-## 📷 Screenshots
+---
 
-> View full visuals in the `.pbix` file or explore below:
+## 🛠 Tools & Technologies
 
-- **Monthly View**
-![Monthly View](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Screenshot%20(35).png)
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- Slicers, Drill-throughs, and Navigation Buttons
+- Custom Visualizations
+
+---
+
+## 📷 Dashboard Screenshots
+
+### 🔹 Monthly View
+![Monthly View](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Monthly%20View.png)
+
+### 🔹 Consolidated View
+![Consolidated View](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Consolidated%20View.png)
+
+### 🔹 Patient Details
+![Patient Details](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Patient%20Details.png)
+
+---
 
 ## 📬 Contact
 
-Feel free to connect with me for collaboration or feedback:
+For feedback, collaboration, or questions:
+
 - GitHub: [@ArunKothandaraman94](https://github.com/ArunKothandaraman94)
