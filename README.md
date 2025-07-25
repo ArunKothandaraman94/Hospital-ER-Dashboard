@@ -10,7 +10,7 @@ This Power BI dashboard presents a comprehensive analysis of patient flow, wait 
 **Arun Kothandaraman**
 
 ## 📁 File
-- [`Hospital ER Analysis.pbix`](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Hospital%20ER%20Analysis.pbix)
+- [`Hospital ER Analysis.pbix`](https://github.com/ArunKothandaraman94/Hospital-ER-Dashboard/blob/main/Dashboard%20Image.png))
 
 ## 📌 Features
 
